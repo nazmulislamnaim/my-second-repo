@@ -1,0 +1,86 @@
+.jj{
+    display: flex;
+    line-height: 30px;
+}
+.hw{
+    width: 50%;
+    line-height: 30px;
+}
+.hw img{
+    width: 80%;
+}
+span{
+    color: yellowgreen;
+}
+.pic{
+    width: 33.33%;
+}
+.pic img{
+    width: 40%;
+}
+.sec{
+    width: 50%;
+}
+.sec img{
+    width: 70%;
+}
+.th{
+    width: 50%;
+}
+.th img{
+    width: 70%;
+}
+.last{
+    width: 50%;
+}
+    
+.last img{
+    width: 40%;
+}
+.foot{
+    text-align: center;
+    color: white;
+    background-color: black;
+    background-size: 100% 100%;
+
+}
+div {
+    padding-top: 50px;
+    padding-right:100px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+  }
+.button{
+    background-color: rgb(243, 82, 82);
+    color: seashell;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+#jj1{
+    background-color: wheat;
+    margin: 20px 10px;
+    border-radius: 20px;
+}
+#jj2{
+    background-color: skyblue;
+    margin: 20px 10px;
+    border-radius: 20px;
+}
+#jj3{
+    background-color: pink;
+    margin: 20px 10px;
+    border-radius: 20px;
+}
+#id{
+    color: rgb(243, 82, 82);
+}
